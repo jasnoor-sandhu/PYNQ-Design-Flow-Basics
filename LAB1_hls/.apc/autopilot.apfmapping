@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="lab_1.h" path="C:\Users\jasnoorsandhu\XILINX_Projects\LAB1\LAB1_hls\lab_1.h"/>
+    <originFiles name="lab_1.cpp" path="C:\Users\jasnoorsandhu\XILINX_Projects\LAB1\LAB1_hls\lab_1.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="lab_1_test.cpp" path="C:\Users\jasnoorsandhu\XILINX_Projects\LAB1\LAB1_hls\lab_1_test.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
